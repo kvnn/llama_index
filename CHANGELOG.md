@@ -5,6 +5,7 @@
 ### New Features
 
 - Add `persist` and `persist_from_dir` methods to `ObjectIndex` that are able to support it (#9064)
+- Added `LocalAI` demo and began deprecation cycle (#9151)
 
 ### Bug Fixes / Nits
 
