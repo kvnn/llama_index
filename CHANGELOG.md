@@ -6,6 +6,10 @@
 
 - Added `LocalAI` demo and began deprecation cycle (#9151)
 
+### Bug Fixes / Nits
+
+- Use `azure_deployment` kwarg in `AzureOpenAILLM` (#9174)
+
 ## [0.9.8] - 2023-11-26
 
 ### New Features
